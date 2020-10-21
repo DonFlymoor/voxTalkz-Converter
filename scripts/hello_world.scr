@@ -1,0 +1,9 @@
+# Assign a name to an actor
+Susan:british_woman
+
+# Make her say Hello, World!
+Susan:Hello, World!
+Susan:Goodbye, World!
+
+# Add the soud effect
+*footsteps
